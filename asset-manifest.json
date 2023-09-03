@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "./static/js/main.88bb19e4.js",
+    "static/media/background.png": "./static/media/background.3307843dd46ea0ea48b1.png",
+    "static/media/proposal.png": "./static/media/proposal.bd919ad689a7cec4c5f4.png",
+    "static/media/background2.png": "./static/media/background2.aacc8a2e08dda55da353.png",
+    "static/media/governance.png": "./static/media/governance.724f399b3b56df274797.png",
+    "static/media/NFT.png": "./static/media/NFT.873accf4da14c82d24a2.png",
+    "static/media/launchapp.png": "./static/media/launchapp.88a6cee0f6c4566ebf11.png",
+    "static/media/logo.png": "./static/media/logo.6c6d0051bd478c91c58d.png",
+    "index.html": "./index.html",
+    "main.88bb19e4.js.map": "./static/js/main.88bb19e4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.88bb19e4.js"
+  ]
+}
